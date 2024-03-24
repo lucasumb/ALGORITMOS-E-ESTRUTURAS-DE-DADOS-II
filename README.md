@@ -1,10 +1,10 @@
 # ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II
 
 ## Integrantes:
-* <b> Lucas de Oliveira Umbelino</b>;
+* <b> Lucas de Oliveira Umbelino</b>
 
-# Professor:
-* <b> Ivanovitch Medeiros Dantas da Silva</b>;
+## Professor:
+* <b> Ivanovitch Medeiros Dantas da Silva</b>
 
 ### Tarefa 1
 * <b>Carregue um corpus (conjunto de textos)</b>;
