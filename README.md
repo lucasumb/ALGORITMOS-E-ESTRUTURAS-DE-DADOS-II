@@ -13,5 +13,3 @@
 uma lista com as possíveis palavras completas encontradas na árvore</b>;
 * <b>Realizar uma comparação de desempenho</b>
 * <b>Implementar um front-end mínimo</b>
-
-link do video: https://www.loom.com/share/f856994a354c4ed4a2f0cb3b3c55b9c9?sid=264bee93-34b1-4afa-9c07-b21382fdcdd4
