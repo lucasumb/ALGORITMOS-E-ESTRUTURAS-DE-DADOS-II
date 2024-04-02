@@ -10,3 +10,5 @@ uma lista com as possíveis palavras completas encontradas na árvore</b>;
 
 Faça o download "tarefa_1.ipynb" e "jokes.csc". Caso queira utilizar outro Corpus, certifique-se de ajustar o diretorio do pd.read_cs() na parte de "Conjuntos de dados" no notebook. Por fim, pode exercutar todo o notebook e visualizar os resultados das tabelas com as comparações.
 Caso queira visualizar o resultado em um front, siga para o tópico do notebook "Streamlit", rode os três blocos de código; no ultimo bloco onde está "! streamlit run app.py & npx localtunnel --port 8501" entre no url disponibilizado na parte de "your url is:". Pegando o ipv4 do segundo bloco e colocando no "Tunnel Password" do url disponibilizado, você tera acesso ao auto complet que utiliza a AVL.
+
+### [link do video](https://www.loom.com/share/f856994a354c4ed4a2f0cb3b3c55b9c9?sid=264bee93-34b1-4afa-9c07-b21382fdcdd4)
