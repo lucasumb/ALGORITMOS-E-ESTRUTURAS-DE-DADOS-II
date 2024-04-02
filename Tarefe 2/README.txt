@@ -1,0 +1,2 @@
+# Tarefa 2
+* <b>Nesta tarefa eu tive que responder aos desafios propostos no notebook disponibilizado pelo professor, sendo eles: "Time_Complexity_of_Algorithms.ipynb" e "Constant_time_complexity.ipynb"</b>
