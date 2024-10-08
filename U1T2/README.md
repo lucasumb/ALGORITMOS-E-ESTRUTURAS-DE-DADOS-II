@@ -7,10 +7,10 @@ engenharia, computação, etc.), por múltiplas áreas ou ainda por temas
 de interesse, como "machine learning", "inteligência artificial", "redes
 complexas", etc.
 * O arquivo .csv deve conter, no mínimo, as seguintes colunas:
-- Nome dos autores
-- Identificadores únicos dos autores
-- Título do artigo
-- Ano de publicação
+Nome dos autores
+Identificadores únicos dos autores
+Título do artigo
+Ano de publicação
 
 ## Criação da Rede de Co-Autoria:
 * Utilizando os dados extraídos, vocês deverão criar uma rede de

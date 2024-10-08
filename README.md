@@ -9,3 +9,4 @@
 ### Sumário
 #### Unidade 1
 * [Trabalho 01](https://github.com/lucasumb/ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II/tree/main/U1T1)
+* [Trabalho 02](https://github.com/lucasumb/ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II/tree/main/U1T2)
