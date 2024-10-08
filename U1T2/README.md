@@ -1,6 +1,6 @@
 # Unidade 01 Trabalho 02
 
-# [link da explicação em video] (https://www.loom.com/share/4fc5875077d6445cb31cc7869f490da8?sid=c91c5032-8062-441e-b9be-4c7a206723f0)
+* [link da explicação em video](https://www.loom.com/share/4fc5875077d6445cb31cc7869f490da8?sid=c91c5032-8062-441e-b9be-4c7a206723f0)
 
 ## Exportação de Dados:
 * A partir da plataforma Scopus, vocês deverão extrair um arquivo .csv que contenha informações de artigos
